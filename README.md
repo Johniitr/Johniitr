@@ -19,13 +19,18 @@ I am an early career researcher based at the **University of Trento (C3A)**, foc
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Computing Environment
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HPC-High_Performance_Computing-orange?style=flat&logo=server&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white" />
 </p>
 
@@ -48,5 +53,8 @@ I am an early career researcher based at the **University of Trento (C3A)**, foc
   </a>
   <a href="https://scholar.google.com/citations?user=2K-7VUMAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/John-Wani-2">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
   </a>
 </div>
