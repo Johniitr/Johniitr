@@ -10,7 +10,7 @@
 <br>
 
 ### 🔬 About Me
-I am an early career researcher based at the **University of Trento (C3A)**, focused on focused on cryosphere, particularly snow and permafrost processes. My work primarily involves physically-based modeling of snow and permafrost in the Alps and Himalayas.
+I am an early career researcher based at the **University of Trento (C3A)**, focused on cryosphere, particularly snow and permafrost processes. My work primarily involves physically-based modeling of snow and permafrost in the Alps and Himalayas.
 
 * 🔭 I’m currently working on **Snow Water Equivalent (SWE) dynamics in the Po River Basin**.
 * 🌱 I’m developing modules for **[GEOtop](https://github.com/geotopmodel/geotop)** and **[GEOframe](https://github.com/geoframecomponents)**.
