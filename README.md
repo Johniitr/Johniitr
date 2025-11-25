@@ -9,7 +9,7 @@
 
 <br>
 
-### 🔬 About Me
+### About Me
 I am an early career researcher based at the **University of Trento (C3A)**, focused on cryosphere, particularly snow and permafrost processes. My work primarily involves physically-based modeling of snow and permafrost in the Alps and Himalayas.
 
 * 🔭 I’m currently working on **Snow Water Equivalent (SWE) dynamics in the Po River Basin**.
@@ -19,7 +19,7 @@ I am an early career researcher based at the **University of Trento (C3A)**, foc
 
 ---
 
-### 🛠️ Languages & Computing Environment
+### Languages & Computing Environment
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
