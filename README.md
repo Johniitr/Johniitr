@@ -36,8 +36,8 @@ I am an early career researcher based at the **University of Trento (C3A)**, foc
 ---
 
 ### Latest Research (From my Blog)
-* **[New Dataset Release: 30 Years of SWE in the Po River District](https://johniitr.github.io/blog/po-river-dataset/)**
 * **[The Alps are Losing Snow: A 30-Year Analysis](https://johniitr.github.io/blog/alps-losing-snow/)**
+* **[New Dataset Release: 30 Years of SWE in the Po River District](https://johniitr.github.io/blog/po-river-dataset/)**
 * **[Anatomy of a Disaster: The Chamoli Glacier Avalanche](https://johniitr.github.io/blog/chamoli-disaster/)**
 * **[Inferring Permafrost in the Indian Himalayas](https://johniitr.github.io/blog/mountain-permafrost/)**
 
