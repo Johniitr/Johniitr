@@ -27,7 +27,6 @@ I am an early career researcher based at the **University of Trento (C3A)**, foc
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugo-FF4088?style=flat&logo=hugo&logoColor=white" />
 </p>
 
 ---
